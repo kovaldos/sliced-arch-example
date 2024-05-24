@@ -1,0 +1,12 @@
+{
+  "form": {
+    "button": {
+      "states": {
+        "base": "some-base-style-class rounded-2 w-100 h-40 hfgd dfd dfdf ",
+        "primary": "first-class second-class third-class color-red-darken-1",
+        "loading": "first-loading second-loading ",
+        "error": ""
+      }
+    }
+  }
+}
